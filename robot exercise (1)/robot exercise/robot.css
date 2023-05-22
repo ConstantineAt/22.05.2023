@@ -1,0 +1,45 @@
+img {
+  width: 50px;
+}
+
+#face {
+  width: 400px;
+}
+
+#eyes1 {
+  position: absolute;
+  width: 250;
+  top: 150;
+  left: 85;
+}
+
+#mouth2 {
+  width: 150px;
+  position: absolute;
+  top: 300;
+  left: 130;
+}
+
+#nose1 {
+  position: absolute;
+  width: 60;
+  top: 230;
+  left: 180;
+}
+
+#ears1 {
+  width: 390;
+  position: absolute;
+  top: 60;
+  left: 9;
+}
+
+#hat {
+  position: absolute;
+  left: 112;
+  width: 200;
+}
+
+#eyes1:hover {
+  transform: scale(2);
+}
